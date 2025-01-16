@@ -51,13 +51,15 @@ This folder contains projects and experiments using **Tailwind CSS**:
 - Regularly update this repository with new learnings and projects.
 
 ---
- **More updates in future:** <br/>
-  
+
+**More updates in future:**  
 <br/><br/><br/>
+
 ---
+
 ## How to Use This Repository
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/YourUsername/WebDev-Learning.git
+   git clone https://github.com/Zoya-Sk/WebDev-Journey.git
 2. Navigate to the folders to explore my progress and projects.
 3. Open the HTML files in your browser to view the output.
