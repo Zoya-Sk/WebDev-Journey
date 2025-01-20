@@ -38,6 +38,23 @@ This folder contains projects and experiments using **Tailwind CSS**:
 
 ---
 
+### **5. JavaScript / JS Foundations**
+**Folder:** `Basics-datatypes-operators`,
+`primitive-arrays-conditions`
+
+- **Basics**  
+    Contains foundational JavaScript concepts with solved challenges and examples.  
+    - Practice with variable declarations and scope.  
+    - Examples and exercises on JavaScript data types. 
+    - Knowledge about operators presedence 
+    - Different printing ways in JS
+
+- **Conditions**  
+    Demonstrates conditional statements and flow control in JavaScript. 
+    - `Primitive` and `non-primitive` data types in detail 
+    - Practical examples of `if`, `else if`, and `else`.  
+    - Challenges focused on using `Arrays` statements effectively.
+
 ## Technologies Used
 - **HTML**: Building the structure and layout of web pages.
 - **CSS**: Styling web pages and creating visually appealing designs.
@@ -53,6 +70,8 @@ This folder contains projects and experiments using **Tailwind CSS**:
 ---
 
 **More updates in future:**  
+
+Stay tuned for more updates as I progress through my learning journey! 🚧
 <br/><br/><br/>
 
 ---
